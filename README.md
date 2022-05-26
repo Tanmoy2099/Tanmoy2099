@@ -1,7 +1,7 @@
 - 👋 Hi, I’mTanmoy Nath
 - 👀 I’m interested in Web Development (React), Programming in Python, java, javaScript, Android (React Native)
 - 🌱 I’m currently learning Express js, Next js
-- 💞️ I’m looking for a job in Programming
+- 💞️ I’m looking for a job in Programming, Web Development
 - 📫 How to reach me? This is my email address -> tanmoy.nath270@gmail.com 
 
 <!---

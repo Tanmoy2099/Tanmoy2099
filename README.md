@@ -8,7 +8,7 @@
 Tanmoy2099/Tanmoy2099 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-1. Crave react frontend only with firebase authentiation --> https://crave-production-9c9e9.web.app
+1. Crave react frontend only with firebase authentication --> https://crave-production-9c9e9.web.app
 
 2. Todo list with node js, express with ejs --> https://glacial-atoll-43132.herokuapp.com
 

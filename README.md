@@ -1,4 +1,4 @@
-- 👋 Hi, I’mTanmoy Nath
+- 👋 Hi, I’m Tanmoy Nath
 - 👀 I’m interested in Web Development (React), Programming in Python, java, javaScript, Android (React Native)
 - 🌱 I’m currently learning Express js, Next js
 - 💞️ I’m looking for a job in Programming, Web Development
